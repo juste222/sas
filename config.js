@@ -1,9 +1,9 @@
 const config = {
-    TOKEN: "xoxc-xxxx",
-    COOKIE: "xoxd-xxxx",
-    TEAM_ID: "workspacename",
-    CHANNEL: "C1234D4567S",
-    CLAUDE_USER: "U1234A568BC",
+    TOKEN: "xoxc-5648853912391-5660463203765-5648854004551-2129ff5fc56a93a87823d897231740ee80c6b9c75a377e3cfc4b20c67282f47a",
+    COOKIE: "xoxd-twsKytN4HOSZGYUIN84prP%2BAvdHWmghqPjdZ3Uj2nLCQpqHVCdyoNKhTAGgPn5WJD%2BIMo5UVLNqN%2BIzPodp1Z%2FiN%2B6gAqejlRmMqylIGB0R2IABJ7KDyydjuIX7Adqoih66yiYpHtkE%2FrLKHVaOojLfcVG%2FkDoG8CimOVayRcLl1kOUfl41ErBLO6w%3D%3D",
+    TEAM_ID: "sai-klw2797",
+    CHANNEL: "C05KHBPCXC2",
+    CLAUDE_USER: "U05KAN01RAA",
 
     MAINPROMPT_LAST: false, // Will try to move the main prompt (main + nsfw prompt from SillyTavern) to the bottom, similar to a jailbreak
     MAINPROMPT_AS_PING: false, // Will use the main prompt as the ping message, if this true the PING_MESSAGE setting is ignored. Overrides MAINPROMPT_LAST.
